@@ -1,39 +1,3 @@
-# Ex09 Event Registration Web Application
-## Date:
-
-## AIM:
-To design, develop and deploy a web application for event registration.
-
-## DESIGN STEPS:
-
-### Step 1:
-Create a new frame.
-
-### Step 2:
-Select any one preset size of your choice.
-
-### Step 3:
-Select the shapes you need.
-
-### Step 4:
-Import images as needed.
-
-### Step 5:
-Create pages based on your need and link them.
-
-### Step 6:
-
-Validate the HTML and CSS code.
-
-### Step 6:
-
-Publish the website in the given URL.
-
-## DESIGN TOOL:
-Figma
-
-## program:
-```css
 /* iPhone 13 Pro Max */
 
 
@@ -380,24 +344,3 @@ line-height: 22px;
 text-align: center;
 
 color: #FFFFFF;
-
-```
-## OUTPUT:
-
-## HOME PAGE:
-![Alt text](home.png)
-## LOGIN PAGE:
-![Alt text](login.png)
-## SIGNUP PAGE:
-![Alt text](sign.png)
-## ENROLL PAGE:
-![Alt text](enroll.png)
-## CONTACT PAGE:
-![Alt text](contact.png)
-## FEEDBACK PAGE:
-![Alt text](feed.png)
-## THANK YOU PAGE:
-![Alt text](thank.png)
-
-## RESULT:
-The program to design, develop and deploy a web application for event registration is completed successfully.
