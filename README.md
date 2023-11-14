@@ -385,18 +385,31 @@ color: #FFFFFF;
 ## OUTPUT:
 
 ## HOME PAGE:
+
 ![Alt text](home.png)
+
 ## LOGIN PAGE:
+
 ![Alt text](login.png)
+
 ## SIGNUP PAGE:
+
 ![Alt text](sign.png)
+
 ## ENROLL PAGE:
+
 ![Alt text](enroll.png)
+
 ## CONTACT PAGE:
+
 ![Alt text](contact.png)
+
 ## FEEDBACK PAGE:
+
 ![Alt text](feed.png)
+
 ## THANK YOU PAGE:
+
 ![Alt text](thank.png)
 
 ## RESULT:
